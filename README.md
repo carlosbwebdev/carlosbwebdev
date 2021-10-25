@@ -19,7 +19,7 @@
 
   ##
 <div>
-  <h1>Os Meus Contactos</h1>
+  <h3>Os Meus Contactos</h3>
  </div> 
 
 <div> 
