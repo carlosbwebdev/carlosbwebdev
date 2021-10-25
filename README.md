@@ -16,7 +16,7 @@
   <hr/>
 <section>
   <div>
-      <h3>Os Meus Contactos</h3>
+      <h3>My Contacts</h3>
     </div> 
   <div> 
     <a href="https://www.instagram.com/carlobarros.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -25,8 +25,8 @@
     <a href="https://twitter.com/Carlos_webdev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   </div>
    <div>
-      <h3>O Meu Site</h3>
-      <a href="http://developedbycarlos.com">Visite!</a>
+      <h3>My Personal Website</h3>
+      <a href="http://developedbycarlos.com">Check it!</a>
     </div> 
   
 </section>
