@@ -7,6 +7,7 @@
       <img height="150em" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbwebdev&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF" />
     </a>
 </div>
+ <hr/>
 
   
 <div style="display: inline_block"><br>
