@@ -20,7 +20,7 @@
   </div>
    <div>
       <h3>My Personal Website</h3>
-      <a href="http://developedbycarlos.com">Check it!</a>
+      <a href="http://carlosbarros.digital">Check it!</a>
     </div> 
   
 </section>
